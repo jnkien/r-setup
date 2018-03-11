@@ -6,7 +6,7 @@ pkgs <- c(
   "stringr",
   "lubridate",
   "progress",
-  
+
   "fs",
   "readr",
   "readxl",
@@ -14,23 +14,24 @@ pkgs <- c(
   "httr",
   "opencpu",
   "plumber",
-  
+
   "rmarkdown",
   "shiny",
   "shinydashboard",
   "shinyjs",
   "shinyBS",
   "shinyjqui",
-  
+
   "devtools",
   "roxygen2",
   "testthat",
   "microbenchmark",
-  
+  "usethis",
+
   "ggplot2",
   "DiagrammeR",
   "igraph",
-  
+
   "earth",
   "glmnet",
   "stringdist",
